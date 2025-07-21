@@ -3,8 +3,16 @@
 
 🚀 I'm currently a **third-year Computer Engineering student** passionate about building real-world software solutions and learning modern web & mobile technologies.
 
-# 💫 About Me:
-### 💡 About Me<br>- 💼 Currently interning at **DBA Consultants**<br>- 🔭 I’m working on **React Native apps** with Firebase and Redux  <br>- 🌱 Learning **MERN Stack**, **API integration**, and **cloud deployment**<br>- 🛠️ Skilled with: `HTML`, `CSS`, `JavaScript`, `React`, `React Native`, `Firebase`, `Node.js`, `MongoDB`<br>- 🧠 Exploring: `AI integrations`, `Data visualization`, `UI/UX design with Figma`<br>- 🤝 I’m looking to collaborate on **open-source projects** and **internship opportunities**<br>- ⚡ Fun fact: I love organizing things and solving small UI/UX challenges!<br>
+## 💫 About Me
+
+- 💼 Currently interning at **DBA Consultants**  
+- 🔭 I’m working on **React Native apps** with Firebase and Redux  
+- 🌱 Learning **MERN Stack**, **API integration**, and **cloud deployment**  
+- 🛠️ Skilled with: `HTML`, `CSS`, `JavaScript`, `React`, `React Native`, `Firebase`, `Node.js`, `MongoDB`  
+- 🧠 Exploring: `AI integrations`, `Data visualization`, `UI/UX design with Figma`  
+- 🤝 I’m looking to collaborate on **open-source projects** and **internship opportunities**  
+- ⚡ Fun fact: I love organizing things and solving small UI/UX challenges!  
+
 
 
 ### 🌐 Socials:
