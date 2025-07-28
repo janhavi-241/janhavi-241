@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janhavi Chaudhri</h1>
+<h1 align="center">Hi 👋, I'm Janhavi Chaudhari</h1>
 <h3 align="center">Aspiring Full Stack Developer | React Native Enthusiast | MERN Stack Learner</h3>
 
 🚀 I'm currently a **third-year Computer Engineering student** passionate about building real-world software solutions and learning modern web & mobile technologies.
